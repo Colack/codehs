@@ -1,4 +1,4 @@
-```
+```java
 # CodeHS
 
 This project is for everyone who needs a bit of help with understanding the java programming language that is taught in the codehs courses.
