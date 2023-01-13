@@ -32,16 +32,14 @@ public class Rectangle
         width = widths;
     }
     
-    public String getArea() {
+    public int getArea() {
         int x = height * width;
-        String y = Integer.toString(x);
-        return y;
+        return x;
     }
     
-    public String getPerimeter() {
+    public int getPerimeter() {
         int x = height*2 + width*2;
-        String y = Integer.toString(x);
-        return y;
+        return x;
     }
 
     
