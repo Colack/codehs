@@ -2,9 +2,9 @@ public class CircleTester {
 
 	public static void main(String[] args) {
 
-		Circle circ = new Circle(10);
+	Circle circ = new Circle(10);
 
-        circ.radius = 5;
+        circ.setRadius(5);
         
         System.out.println(circ);
 
