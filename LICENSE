@@ -1,45 +1,63 @@
-Ludwig License
+Ludwig V1.4 License
 
-Copyright (c) 2023 Jack Spencer
+(c) 2023 Jack Spencer
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Terms and Conditions for Use, Copying, Modification, and Distribution
 
-1. Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
+1. Definitions
 
-2. Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
+"License" refers to the terms and conditions outlined in this document.
+"Work" refers to the original work of authorship made available under this License.
+"Licensee" refers to the individual or entity exercising the rights granted under this License.
 
-3. You may not use the name of the author to endorse or promote products
-    derived from this software without specific prior written permission.
+2. Grant of Rights
+   
+Subject to the terms and conditions of this License, the Licensor hereby grants the Licensee a worldwide, royalty-free, non-exclusive, irrevocable license to use, copy, modify, merge, publish, distribute, sublicense, and/or sell the Work, as well as any modifications or derivative works based on the Work, while retaining the same license for the modified or derivative works.
 
-4. All modifications to the software must be clearly marked as such, in a
-    "Modifications" section of the LICENSE file, or in a separate file.
+3. Additional Rights and Permissions
+   
+a. Commercial Use: The Licensee is hereby granted the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell the Work, as well as any modifications or derivative works based on the Work, for commercial purposes without the need for further permission, provided that attribution is given to the original author.
 
-5. All versions of this software that you distribute must be licensed under
-    the same license.
+b. Sublicensing: The Licensee may sublicense the rights granted under this License to third parties, subject to the conditions of this License.
 
-6. This license does not grant you any rights to the trademarks of the author,
-    or any other party. You may not use the trademarks of the author or any
-    other party to promote your software without their permission.
+c. Patent Use: This License explicitly grants Licensee the right to practice any claims of any patents owned or licensable by the Licensor that necessarily arise directly from the use, modification, or distribution of the Work.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+d. No Warranty: The Work is provided "as is" without any warranty or guarantee of any kind, either expressed or implied. The Licensor disclaims all warranties, including but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
 
-For a copy of the license, please refer to the LICENSE file included with the software or visit 
+4. Compliance and Redistribution
+   
+a. Attribution: The Licensee agrees to provide appropriate attribution to the original author and to include a copy of this License with any distribution or derivative work.
 
-                        https://colack.me/license/ludwig.
+b. Notices: The Licensee agrees to include prominent notices in the Work and any derivative works stating that modifications have been made to the original Work.
 
-By using this software, you agree to comply with the terms and conditions of this license. 
-If you do not agree to the terms of this license, you must not use the software.
+c. Modifications: Any modifications made to the Work must be clearly marked as such, either in a "Modifications" section of the LICENSE file, in a separate file, or in the documentation accompanying the modified work.
+
+5. Termination
+   
+This License and the rights granted hereunder may be terminated by the Licensor at any time for any reason or by the Licensee by discontinuing all use, copying, modification, and distribution of the Work.
+
+6. Miscellaneous
+   
+a. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+
+b. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+c. Use of Author's Name: You may not use the name of the author to endorse or promote products derived from this software without specific prior written permission.
+
+d. License Requirement: All versions of the software that you distribute must be licensed under the same license as this Ludwig V1.4 License.
+
+e. Freedom of Use: The Licensee is granted the freedom to use the Work for any purpose, whether commercial or non-commercial, without limitations beyond those imposed by this License.
+
+f. Governing Law: This License shall be governed by and construed in accordance with the laws of [Jurisdiction].
+
+g. Entire Agreement: This License constitutes the entire agreement between the parties with respect to the Work licensed here. Any modifications or waivers of this License must be in writing and signed by both parties.
+
+h. Severability: If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall continue to be valid and enforceable.
+
+By exercising any rights granted under this License, the Licensee acknowledges that they have read, understood, and agree to be bound by the terms and conditions of this V1.4 License.
+
+For a copy of the license, please refer to the LICENSE file included with the software or visit:
+
+https://github.com/Colack/License
+
+By using this software, you agree to comply with the terms and conditions of this license. If you do not agree to the terms of this license, you must not use the software.
