@@ -1,4 +1,5 @@
-CodeHS
+codehs repository
 
-This Github Repository is for everyone who is in any of remingtons class.
-For reasons, I have to say that this is a resource. Use this at your own risk.
+this is source code for everything i do in codehs. im making this a resource for other people.
+please use this to study or help yourself pass a computer science / cyber security class.
+make sure to send this to other people to help them too.
