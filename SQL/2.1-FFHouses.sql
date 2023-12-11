@@ -1,0 +1,1 @@
+SELECT name FROM House WHERE name LIKE "%ff%"

@@ -1,1 +1,0 @@
-SELECT name FROM House ORDER BY name DESC
