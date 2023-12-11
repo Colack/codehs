@@ -1,11 +1,10 @@
-def backflip():
-    turn_left()
+def turn_right():
     turn_left()
     turn_left()
     turn_left()
     
+turn_right()
 move()
 move()
 move()
-backflip()
-move()
+turn_left()
