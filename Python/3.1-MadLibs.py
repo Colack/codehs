@@ -1,0 +1,7 @@
+print("Welcome to mad libs")
+x = input("Enter a noun: ")
+y = input("Enter a adjective: ")
+z = input("Enter a verb: ")
+print("")
+print("Here's your Mad Libs story:")
+print("Once upon a time, there was a " + x + " who had a " + y + " " + x + ". They loved to " + z + " every day.")
