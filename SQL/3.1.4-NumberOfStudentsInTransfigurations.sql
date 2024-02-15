@@ -1,1 +1,2 @@
-SELECT COUNT(*) AS "Num Students" FROM Enrollment WHERE course = 2
+SELECT COUNT(*) AS "Num Students" FROM Enrollment 
+WHERE course = 2

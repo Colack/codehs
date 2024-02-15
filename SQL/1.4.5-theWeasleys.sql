@@ -1,1 +1,2 @@
-SELECT first_name FROM Person WHERE last_name = 'Weasley'
+SELECT first_name FROM Person 
+WHERE last_name = 'Weasley'
