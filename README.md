@@ -1,10 +1,8 @@
-# CodeHS Repository
+# CodeHS
 
-This repository contains all of the CodeHS code for different courses. 
+This is a repository with answers & solutions for the different CodeHS modules and units. Each unit is in the specified language folder, and is titled based off of lesson-name-file_extension.
+<br>
+For example, the assignment Say Hello from Unit 2 Section 1 Lesson 4 would be titled '2.1.4-SayHello.html'
+<br>
 
-## Notes
-
-This repository is to be used for educational purposes only. Please use this as a resource / reference for your own CodeHS assignments.
-I am not in any way responsible for any misuse of this repository.
-
-I am not affiliated with CodeHS in any way.
+## 
