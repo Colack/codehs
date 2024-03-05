@@ -13,7 +13,7 @@ public class Sorter {
                     currentMinIndex = j;
                 }
             }
-            // swap numbers if needed
+            
             if (i != currentMinIndex)
             {
                 int temp = arr[currentMinIndex];
